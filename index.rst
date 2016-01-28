@@ -97,6 +97,10 @@ hrpsys-base
 
   http://fkanehiro.github.com/hrpsys-tutorials/html/index.html
 
+* Reference Manual
+
+  http://fkanehiro.github.com/hrpsys-base
+
 * Source
 
   http://github.com/fkanehiro/hrpsys-base
