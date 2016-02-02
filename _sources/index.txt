@@ -122,7 +122,7 @@ Gazebo
 
 * GazeboのRoki対応
 
-  近日公開予定
+  https://github.com/fkanehiro/roki-gazebo-patch
 
 * hrpsysとGazeboの連携
 

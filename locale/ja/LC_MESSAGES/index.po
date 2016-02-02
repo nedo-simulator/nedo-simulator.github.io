@@ -151,7 +151,7 @@ msgstr ""
 msgid "https://github.com/kikuuwe/BetterContactPlugin_for_Choreonoid"
 msgstr ""
 
-#: ../../index.rst:86 ../../index.rst:125
+#: ../../index.rst:86
 msgid "近日公開予定"
 msgstr ""
 
@@ -245,6 +245,10 @@ msgstr ""
 #: ../../index.rst:7
 msgid ""
 "災害対応ロボットの設計支援、制御ソフトウェア開発支援、オペレータ訓練、運用計画支援を行える災害対応ロボットシミュレータを開発することを目標とする。既存のシミュレータChoreonoidを開発基盤として、米OSRFと共同で（１）Gazeboとの互換性を強化して研究成果の相互利用を可能とするとともに、（２）シミュレータの精度を向上させてシミュレーションの実機実験とのギャップを最小化する。（３）開発したシミュレータを広く一般に公開して災害対応ロボット開発に寄与すると共にシミュレーションによる災害対応ロボットの競技会「日本版バーチャルロボティクスチャレンジ」を開催することで災害対応ロボットの開発に有用なシミュレータであることを実証する。"
+msgstr ""
+
+#: ../../index.rst:125
+msgid "https://github.com/fkanehiro/roki-gazebo-patch"
 msgstr ""
 
 #~ msgid ""
